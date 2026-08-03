@@ -1,4 +1,9 @@
-### Research on Visual-SwarmSLAM and Visual Perception
+### Nice to meet you
+I'm Peize Liu, a PhD student in the UAV Group at the HKUST Robotics Institute.
+
+My research focuses on Visual SLAM, visual perception, vision-based reinforcement learning, and visual foundation models.
+
+Full-stack robotics engineer, from embedded systems to perception, learning, and autonomy.
 <!--
 **Peize-Liu/Peize-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
